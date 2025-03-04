@@ -1,0 +1,38 @@
+28-03-2024 12:03:51 - INFO  - 8.2.5 - 47,4 MB/512 MB - Huyen > Start upgrade from 0.0.0
+28-03-2024 12:03:51 - INFO  - 8.2.5 - 53,6 MB/512 MB - Huyen > Array
+(
+    [`wp_adminnewsletter_emails`] => Created table `wp_adminnewsletter_emails`
+)
+
+28-03-2024 12:03:51 - INFO  - 8.2.5 - 53,6 MB/512 MB - Huyen > Array
+(
+    [`wp_adminnewsletter_sent`] => Created table `wp_adminnewsletter_sent`
+)
+
+28-03-2024 12:03:51 - INFO  - 8.2.5 - 53,6 MB/512 MB - Huyen > Array
+(
+    [`wp_adminnewsletter`] => Created table `wp_adminnewsletter`
+)
+
+28-03-2024 12:03:51 - INFO  - 8.2.5 - 53,6 MB/512 MB - Huyen > Array
+(
+    [`wp_adminnewsletter_user_logs`] => Created table `wp_adminnewsletter_user_logs`
+)
+
+28-03-2024 12:03:51 - INFO  - 8.2.5 - 53,6 MB/512 MB - Huyen > Array
+(
+    [`wp_adminnewsletter_user_meta`] => Created table `wp_adminnewsletter_user_meta`
+)
+
+28-03-2024 12:03:51 - INFO  - 8.2.5 - 53,6 MB/512 MB - Huyen > Array
+(
+    [`wp_adminnewsletter_stats`] => Created table `wp_adminnewsletter_stats`
+)
+
+28-03-2024 12:03:51 - INFO  - 8.2.5 - 53,6 MB/512 MB - Huyen > Array
+(
+    [`wp_adminnewsletter_logs`] => Created table `wp_adminnewsletter_logs`
+)
+
+28-03-2024 12:03:51 - INFO  - 8.2.5 - 53,6 MB/512 MB - Huyen > Backing up options of 0.0.0
+28-03-2024 12:03:51 - INFO  - 8.2.5 - 53,6 MB/512 MB - Huyen > End
